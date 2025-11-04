@@ -1,0 +1,182 @@
+[
+  {
+    "image": "https://i.ibb.co.com/vv3HLPBZ/photo-editor-pro.png",
+    "title": "Photo Editor Pro",
+    "companyName": "InstaTech",
+    "id": 1,
+    "description": "Photo Editor Pro is a powerful image editing app that lets you enhance photos with ease. With features like filters, color adjustments, and advanced tools like curves and sharpness, it allows users to create professional-level edits right from their phone. Whether you're a beginner or a pro, this app offers a range of easy-to-use features to suit your needs. Share your creations on social media directly from the app.",
+    "size": 45,
+    "reviews": 12,
+    "ratingAvg": 4.6,
+    "downloads": 1,
+    "ratings": [
+      { "name": "1 star", "count": 125 },
+      { "name": "2 star", "count": 234 },
+      { "name": "3 star", "count": 784 },
+      { "name": "4 star", "count": 3456 },
+      { "name": "5 star", "count": 6524 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/hqkk5bs/weather-master.jpg",
+    "title": "Weather Master",
+    "companyName": "WeatherTech",
+    "id": 2,
+    "description": "Weather Master is your ultimate guide to weather forecasting, providing real-time updates on temperature, humidity, wind speed, and more. With an intuitive design, it helps you prepare for any weather conditions. The app uses satellite data to provide accurate forecasts and weather warnings. Whether you're planning a trip or just curious about the weather, Weather Master delivers the information you need in a user-friendly format.",
+    "size": 30,
+    "reviews": 98,
+    "ratingAvg": 4.7,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 98 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 512 },
+      { "name": "4 star", "count": 4321 },
+      { "name": "5 star", "count": 3951 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/PvwLBYYN/fitness-tracker.jpg",
+    "title": "Fitness Tracker",
+    "companyName": "FitTech",
+    "id": 3,
+    "description": "Fitness Tracker is a health and fitness app that helps you track your workouts, monitor calories burned, and set fitness goals. Whether you’re running, walking, cycling, or doing yoga, this app logs your progress and provides detailed statistics. You can also track your water intake and meals to keep everything in check. With personalized recommendations based on your activity level, Fitness Tracker helps you stay motivated and reach your fitness goals.",
+    "size": 45,
+    "reviews": 32,
+    "ratingAvg": 4.5,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 18500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nqDjw7MT/recipe-finder.png",
+    "title": "Recipe Finder",
+    "companyName": "CookPro",
+    "id": 4,
+    "description": "Recipe Finder is your go-to app for discovering new recipes. With thousands of recipes for breakfast, lunch, dinner, and desserts, the app provides a variety of options based on your preferences. You can search by ingredients, dietary restrictions, and cuisine type. It also lets you save your favorite recipes, create shopping lists, and plan your meals for the week. Cooking has never been easier with this comprehensive recipe guide!",
+    "size": 40,
+    "reviews": 14,
+    "ratingAvg": 4.8,
+    "downloads": 2,
+    "ratings": [
+      { "name": "1 star", "count": 75 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/pjPMNLQx/music-streaming.jpg",
+    "title": "Music Streamer",
+    "companyName": "AudioTech",
+    "id": 5,
+    "description": "Music Streamer lets you stream your favorite music on-demand, with a vast library of songs from every genre. Whether you're into pop, rock, classical, or electronic, this app has something for everyone. It offers curated playlists, offline listening options, and a social feature that lets you share tracks with friends. With high-quality audio and personalized recommendations based on your listening habits, Music Streamer is the perfect companion for music lovers.",
+    "size": 65,
+    "reviews": 21,
+    "ratingAvg": 4.3,
+    "downloads": 1,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 9430 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/rGyZCPb7/task-manager.png",
+    "title": "Task Manager",
+    "companyName": "TaskMaster",
+    "id": 6,
+    "description": "Task Manager is an intuitive app that helps you organize your day-to-day tasks, set reminders, and track your progress. Whether you're managing work, school, or personal projects, this app ensures that you stay on top of everything. With features like task prioritization, due date alerts, and progress tracking, Task Manager is your productivity assistant. Sync your tasks across devices and never forget an important deadline again!",
+    "size": 25,
+    "reviews": 45,
+    "ratingAvg": 4.2,
+    "downloads": 2,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 2010 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/F4P6KcWd/news-now.png",
+    "title": "News Now",
+    "companyName": "Global News",
+    "id": 7,
+    "description": "News Now brings you the latest breaking news from around the world. Whether you're interested in politics, entertainment, or sports, this app covers it all. It provides real-time updates, video reports, and notifications for important stories. With an easy-to-navigate interface and customizable news feeds, News Now is the best way to stay informed on current events.",
+    "size": 50,
+    "reviews": 20,
+    "ratingAvg": 4.6,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 11500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/7JbWvv3W/travel-guide.jpg",
+    "title": "Travel Guide",
+    "companyName": "TravelTech",
+    "id": 8,
+    "description": "Travel Guide is your pocket travel companion. Whether you're visiting a new city or exploring your own, this app provides essential information such as top attractions, restaurant recommendations, maps, and travel tips. You can even plan your day’s itinerary and discover hidden gems in your destination. With offline maps and real-time updates, Travel Guide makes it easier to explore the world.",
+    "size": 60,
+    "reviews": 51,
+    "ratingAvg": 4.4,
+    "downloads": 1,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 3423 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/wFd3FHt0/social-connect.png",
+    "title": "Social Connect",
+    "companyName": "SocialNet",
+    "id": 9,
+    "description": "Social Connect is a social networking app that lets you connect with friends, share photos and updates, and discover new people. With a clean and intuitive interface, it’s easy to create and share posts, follow your favorite influencers, and join online communities. Social Connect also offers messaging, group chats, and real-time notifications, keeping you in touch with the people who matter most.",
+    "size": 55,
+    "reviews": 12,
+    "ratingAvg": 4.0,
+    "downloads": 1,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 7500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DfbZxYBX/learning-hub.png",
+    "title": "Learning Hub",
+    "companyName": "LearnTech",
+    "id": 10,
+    "description": "Learning Hub offers online courses, tutorials, and articles across various subjects such as programming, business, design, and more. The app allows users to learn at their own pace, track their progress, and earn certifications upon completion of courses. With interactive quizzes, video tutorials, and a wide range of learning materials, Learning Hub makes it easier than ever to acquire new skills.",
+    "size": 70,
+    "reviews": 17,
+    "ratingAvg": 4.7,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 8500 },
+      { "name": "5 star", "count": 10500 }
+    ]
+  }
+]
