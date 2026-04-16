@@ -4,6 +4,8 @@ Hero Apps is a responsive app marketplace web application where users can explor
 
 🔗 Live Project Link
 
+<img src = "https://i.postimg.cc/yx9QpV86/hero-io.png" alt = "apps" size = "50%" />
+
 ## Live Demo: https://hero-apps-phi.vercel.app/
 
 ## Technologies Used
